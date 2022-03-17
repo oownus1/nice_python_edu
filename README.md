@@ -11,3 +11,9 @@
 ## 많이 서툴었지만 이부분으로 많은 것을 배웠다
 ##그밖에도 gitlab, bookstack, etl 등등에 대해 많은 것을 배운 시간이었다
 ##이 인턴생황을 하던중에 정보처리기사 공부도 병행하여 필기합격을 하였다 실기를 앞두고있다.. 할게 엄청많다 파이팅!! 아자자 할수있다!!! 
+
+
+
+2차교육 1강 교육한영상(파이썬 개념 & 기초문법) : https://youtu.be/f6JhGbB-mVo 
+2차교육 2강 교육한영상(파이썬 문법 개념과 cheatsheet) : https://youtu.be/X4ZQlRtb3hk
+2차교육 3강 교육한영상(데이터분석 중요 라이브러리 numpy, pandas) : https://youtu.be/FFsccg8CrnA
