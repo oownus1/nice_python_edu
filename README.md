@@ -3,6 +3,8 @@
 - 2차교육 1강 교육한영상(파이썬 개념 & 기초문법) : https://youtu.be/f6JhGbB-mVo 
 - 2차교육 2강 교육한영상(파이썬 문법 개념과 cheatsheet) : https://youtu.be/X4ZQlRtb3hk
 - 2차교육 3강 교육한영상(데이터분석 중요 라이브러리 numpy, pandas) : https://youtu.be/FFsccg8CrnA
+- 2차교육 4강 교육한영상(dataprep) : https://youtu.be/f2g-lHcxlws
+
 
 
 ### 나OO OOOO회사에서 인턴을 하면서 수행한 파이썬과 이를 이용한 데이터분석 강의를 수행하였다
