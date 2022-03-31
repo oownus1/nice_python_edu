@@ -1,9 +1,13 @@
 # nice_python_edu  --> http://py.niceamc.co.kr/edwithpy 박버벅인턴 파이썬 2차와 3차교육을 담당하였다
 
-- 2차교육 1강 교육한영상(파이썬 개념 & 기초문법) : https://youtu.be/f6JhGbB-mVo 
-- 2차교육 2강 교육한영상(파이썬 문법 개념과 cheatsheet) : https://youtu.be/X4ZQlRtb3hk
-- 2차교육 3강 교육한영상(데이터분석 중요 라이브러리 numpy, pandas) : https://youtu.be/FFsccg8CrnA
-- 2차교육 4강 교육한영상(dataprep이 무엇인지, 이를 통한 report생성) : https://youtu.be/w26sX85Vs9A
+- 파이썬 2차교육 1강 교육한영상(파이썬 개념 & 기초문법) : https://youtu.be/f6JhGbB-mVo 
+- 파이썬 2차교육 2강 교육한영상(파이썬 문법 개념과 cheatsheet) : https://youtu.be/X4ZQlRtb3hk
+- 파이썬 2차교육 3강 교육한영상(데이터분석 중요 라이브러리 numpy, pandas) : https://youtu.be/FFsccg8CrnA
+- 파이썬 2차교육 4강 교육한영상(dataprep이 무엇인지, 이를 통한 report생성) : https://youtu.be/w26sX85Vs9A
+- 파이썬 2차교육 5강 교육한영상(상권업소 데이터셋 분석) : https://youtu.be/AmcF6mzldpE
+- 파이썬 2차교육 6강 교육한영상(건강검진정보 데이터셋 분석) : https://youtu.be/bhGFwey3Qbw
+
+
 
 - 계정 현황 정리 부분은 업무자동화 부분 실습입니다(상무님께서 업무 자동화 부분이라고 알려주셨습니다 새로 배운 부분 기록)
 
