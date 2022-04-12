@@ -6,6 +6,7 @@
 - 파이썬 2차교육 4강 교육한영상(dataprep이 무엇인지, 이를 통한 report생성) : https://youtu.be/w26sX85Vs9A
 - 파이썬 2차교육 5강 교육한영상(상권업소 데이터셋 분석) : https://youtu.be/AmcF6mzldpE
 - 파이썬 2차교육 6강 교육한영상(건강검진정보 데이터셋 분석) : https://youtu.be/bhGFwey3Qbw
+- 파이썬 2차교육 7강 교육한영상(온라인쇼핑판매액 데이터셋 분석) : https://youtu.be/Sl2Xps-Ra6I
 
 
 
