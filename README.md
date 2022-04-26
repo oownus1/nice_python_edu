@@ -13,7 +13,7 @@
 
 
 
-- 파이썬 3차교육 1강 교육한영상(FinanceDataReader라이브러리와 KRX 전체종목분석) : 
+- 파이썬 3차교육 1강 교육한영상(FinanceDataReader라이브러리와 KRX 전체종목분석) : https://youtu.be/W37ZmSe6Ww4
 - 파이썬 3차교육 2강 교육한영상(FinanceDataReader를 통한 개별종목분석) : 
 - 파이썬 3차교육 3강 교육한영상(ETF 분석과 시각화) :
 - 파이썬 3차교육 4강 교육한영상(업종 테마 분석 - EPS, PER, BPS, PBR의 개념) :
