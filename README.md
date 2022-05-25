@@ -16,7 +16,7 @@
 - 파이썬 3차교육 1강 교육한영상(FinanceDataReader라이브러리와 KRX 전체종목분석) : https://youtu.be/W37ZmSe6Ww4
 - 파이썬 3차교육 2강 교육한영상(FinanceDataReader를 통한 개별종목분석 및 간단 웹크롤링) : https://youtu.be/AvMfzIXjYO4
 - 파이썬 3차교육 3강 교육한영상(ETF 분석과 시각화) : https://youtu.be/CKYL4NsxmoA
-- 파이썬 3차교육 4강 교육한영상(업종 테마 분석 - EPS, PER, BPS, PBR의 개념) :
+- 파이썬 3차교육 4강 교육한영상(업종 테마 분석 - EPS, PER, BPS, PBR의 개념) & 사경인님 주식투자 주가예측 설명 : https://youtu.be/p_jjcLpXPrE
 - 파이썬 3차교육 5강 교육한영상(주식투자의 기술적 분석과 보조지표 - 이동평균, RSI, 추세지표의 개념/ fbprophet) : 
 
 - 계정 현황 정리 부분은 업무자동화 부분 실습입니다(상무님께서 업무 자동화 부분이라고 알려주셨습니다 새로 배운 부분 기록)
