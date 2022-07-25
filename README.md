@@ -35,7 +35,7 @@
 너무 조급해하지말고 하나씩 천천히 지금처럼 해나가보자
 ```
 #
-##2차 교육
+<2차 교육 기록>
 - 파이썬 2차교육 1강 교육한영상(파이썬 개념 & 기초문법) : https://youtu.be/f6JhGbB-mVo 
 - 파이썬 2차교육 2강 교육한영상(파이썬 문법 개념과 cheatsheet) : https://youtu.be/X4ZQlRtb3hk
 - 파이썬 2차교육 3강 교육한영상(데이터분석 중요 라이브러리 numpy, pandas) : https://youtu.be/FFsccg8CrnA
@@ -52,7 +52,8 @@
 
 
 
-##
+#
+<3차 교육 기록>
 - 파이썬 3차교육 1강 교육한영상(FinanceDataReader라이브러리와 KRX 전체종목분석) : https://youtu.be/W37ZmSe6Ww4
 - 파이썬 3차교육 2강 교육한영상(FinanceDataReader를 통한 개별종목분석 및 간단 웹크롤링) : https://youtu.be/AvMfzIXjYO4
 - 파이썬 3차교육 3강 교육한영상(ETF 분석과 시각화) : https://youtu.be/CKYL4NsxmoA
