@@ -1,4 +1,5 @@
-# nice_python_edu  --> http://py.niceamc.co.kr/edwithpy 박버벅인턴 파이썬 2차와 3차교육을 담당하였다
+# nice_python_edu  
+- http://py.niceamc.co.kr/edwithpy 박버벅인턴 파이썬 2차와 3차교육을 담당하였다
 
 - 파이썬 2차교육 1강 교육한영상(파이썬 개념 & 기초문법) : https://youtu.be/f6JhGbB-mVo 
 - 파이썬 2차교육 2강 교육한영상(파이썬 문법 개념과 cheatsheet) : https://youtu.be/X4ZQlRtb3hk
