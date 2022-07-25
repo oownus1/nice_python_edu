@@ -34,8 +34,8 @@
 의식의 흐름으로 쓰느라 두서없이 써내려간 것 같다
 너무 조급해하지말고 하나씩 천천히 지금처럼 해나가보자
 ```
-##
-#2차 교육
+#
+##2차 교육
 - 파이썬 2차교육 1강 교육한영상(파이썬 개념 & 기초문법) : https://youtu.be/f6JhGbB-mVo 
 - 파이썬 2차교육 2강 교육한영상(파이썬 문법 개념과 cheatsheet) : https://youtu.be/X4ZQlRtb3hk
 - 파이썬 2차교육 3강 교육한영상(데이터분석 중요 라이브러리 numpy, pandas) : https://youtu.be/FFsccg8CrnA
