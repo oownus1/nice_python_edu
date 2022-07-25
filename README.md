@@ -1,5 +1,5 @@
 # nice_python_edu  
-## http://py.niceamc.co.kr/edwithpy 박선우인턴 파이썬 2차와 3차교육을 담당하였다(사내에서만 접속 가능한 url입니다)
+## http://py.niceamc.co.kr/edwithpy 박선우인턴 파이썬 2차와 3차교육 임무를 수행하였습니다. (사내에서만 접속 가능한 url입니다)
 ![image](https://user-images.githubusercontent.com/66655878/180698376-149c93e4-7abe-498d-913f-bfd5e822bf26.png)
 
 ```
@@ -48,8 +48,6 @@
 ![2차3](https://user-images.githubusercontent.com/66655878/180698679-eb8bf6cf-df33-46f0-acd0-44c1ed053c66.png)
 ![2차4](https://user-images.githubusercontent.com/66655878/180698680-44c856fa-c18b-418c-82e2-1fa7eb2af5b0.png)
 ![2차5](https://user-images.githubusercontent.com/66655878/180698681-9f5751ae-9bc8-4ac0-9ae0-40f719caa43b.png)
-
-
 
 
 #
