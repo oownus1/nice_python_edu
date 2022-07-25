@@ -10,7 +10,11 @@
 - 파이썬 2차교육 5강 교육한영상(상권업소 데이터셋 분석) : https://youtu.be/AmcF6mzldpE
 - 파이썬 2차교육 6강 교육한영상(건강검진정보 데이터셋 분석) : https://youtu.be/bhGFwey3Qbw
 - 파이썬 2차교육 7강 교육한영상(온라인쇼핑판매액 데이터셋 분석) : https://youtu.be/Sl2Xps-Ra6I
-
+![2차1](https://user-images.githubusercontent.com/66655878/180698673-e50d6693-1ea3-4b58-9e7f-7780719ee77d.png)
+![2차2](https://user-images.githubusercontent.com/66655878/180698678-02d89ca7-6b55-4638-909e-3ccf753a6d9b.png)
+![2차3](https://user-images.githubusercontent.com/66655878/180698679-eb8bf6cf-df33-46f0-acd0-44c1ed053c66.png)
+![2차4](https://user-images.githubusercontent.com/66655878/180698680-44c856fa-c18b-418c-82e2-1fa7eb2af5b0.png)
+![2차5](https://user-images.githubusercontent.com/66655878/180698681-9f5751ae-9bc8-4ac0-9ae0-40f719caa43b.png)
 
 
 
@@ -21,6 +25,10 @@
 - 파이썬 3차교육 3강 교육한영상(ETF 분석과 시각화) : https://youtu.be/CKYL4NsxmoA
 - 파이썬 3차교육 4강 교육한영상(업종 테마 분석 - EPS, PER, BPS, PBR의 개념) & 사경인님 주식투자 주가예측 설명 : https://youtu.be/p_jjcLpXPrE
 - 파이썬 3차교육 5강 교육한영상(주식투자의 기술적 분석과 보조지표 - 이동평균, RSI, 추세지표의 개념/ fbprophet) : https://youtu.be/Y_pBcc0nzfI
+![3차3](https://user-images.githubusercontent.com/66655878/180698913-cb5e1ec0-0db2-4d76-8268-ee39302c57f4.png)
+![3차4](https://user-images.githubusercontent.com/66655878/180698918-99217c96-b13a-4d40-8ed0-5ea59d3043c2.png)
+![3차1](https://user-images.githubusercontent.com/66655878/180698920-54f4f662-4f3c-442f-bfdd-2d0db1220f1a.png)
+![3차2](https://user-images.githubusercontent.com/66655878/180698922-4591ae07-3ca1-45f1-947d-d5e8fc9df73c.png)
 
 - 계정 현황 정리 부분은 업무자동화 부분 실습입니다(상무님께서 업무 자동화 부분이라고 알려주셨습니다 새로 배운 부분 기록)
 
