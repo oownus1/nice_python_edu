@@ -2,38 +2,6 @@
 ## http://py.niceamc.co.kr/edwithpy 박버벅인턴 파이썬 2차와 3차교육을 담당하였다
 ![image](https://user-images.githubusercontent.com/66655878/180698376-149c93e4-7abe-498d-913f-bfd5e822bf26.png)
 
-
-- 파이썬 2차교육 1강 교육한영상(파이썬 개념 & 기초문법) : https://youtu.be/f6JhGbB-mVo 
-- 파이썬 2차교육 2강 교육한영상(파이썬 문법 개념과 cheatsheet) : https://youtu.be/X4ZQlRtb3hk
-- 파이썬 2차교육 3강 교육한영상(데이터분석 중요 라이브러리 numpy, pandas) : https://youtu.be/FFsccg8CrnA
-- 파이썬 2차교육 4강 교육한영상(dataprep이 무엇인지, 이를 통한 report생성) : https://youtu.be/w26sX85Vs9A
-- 파이썬 2차교육 5강 교육한영상(상권업소 데이터셋 분석) : https://youtu.be/AmcF6mzldpE
-- 파이썬 2차교육 6강 교육한영상(건강검진정보 데이터셋 분석) : https://youtu.be/bhGFwey3Qbw
-- 파이썬 2차교육 7강 교육한영상(온라인쇼핑판매액 데이터셋 분석) : https://youtu.be/Sl2Xps-Ra6I
-![2차1](https://user-images.githubusercontent.com/66655878/180698673-e50d6693-1ea3-4b58-9e7f-7780719ee77d.png)
-![2차2](https://user-images.githubusercontent.com/66655878/180698678-02d89ca7-6b55-4638-909e-3ccf753a6d9b.png)
-![2차3](https://user-images.githubusercontent.com/66655878/180698679-eb8bf6cf-df33-46f0-acd0-44c1ed053c66.png)
-![2차4](https://user-images.githubusercontent.com/66655878/180698680-44c856fa-c18b-418c-82e2-1fa7eb2af5b0.png)
-![2차5](https://user-images.githubusercontent.com/66655878/180698681-9f5751ae-9bc8-4ac0-9ae0-40f719caa43b.png)
-
-
-
-
-
-- 파이썬 3차교육 1강 교육한영상(FinanceDataReader라이브러리와 KRX 전체종목분석) : https://youtu.be/W37ZmSe6Ww4
-- 파이썬 3차교육 2강 교육한영상(FinanceDataReader를 통한 개별종목분석 및 간단 웹크롤링) : https://youtu.be/AvMfzIXjYO4
-- 파이썬 3차교육 3강 교육한영상(ETF 분석과 시각화) : https://youtu.be/CKYL4NsxmoA
-- 파이썬 3차교육 4강 교육한영상(업종 테마 분석 - EPS, PER, BPS, PBR의 개념) & 사경인님 주식투자 주가예측 설명 : https://youtu.be/p_jjcLpXPrE
-- 파이썬 3차교육 5강 교육한영상(주식투자의 기술적 분석과 보조지표 - 이동평균, RSI, 추세지표의 개념/ fbprophet) : https://youtu.be/Y_pBcc0nzfI
-![3차3](https://user-images.githubusercontent.com/66655878/180698913-cb5e1ec0-0db2-4d76-8268-ee39302c57f4.png)
-![3차4](https://user-images.githubusercontent.com/66655878/180698918-99217c96-b13a-4d40-8ed0-5ea59d3043c2.png)
-![3차1](https://user-images.githubusercontent.com/66655878/180698920-54f4f662-4f3c-442f-bfdd-2d0db1220f1a.png)
-![3차2](https://user-images.githubusercontent.com/66655878/180698922-4591ae07-3ca1-45f1-947d-d5e8fc9df73c.png)
-
-- 계정 현황 정리 부분은 업무자동화 부분 실습입니다(상무님께서 업무 자동화 부분이라고 알려주셨습니다 새로 배운 부분 기록)
-
-
-
 ```
 나OO OOOO회사에서 인턴을 하면서 수행한 파이썬과 이를 이용한 데이터분석 강의를 수행하였다
 2022년 1월 ~ 6월까지 총 6개월 인턴생활
@@ -66,6 +34,39 @@
 의식의 흐름으로 쓰느라 두서없이 써내려간 것 같다
 너무 조급해하지말고 하나씩 천천히 지금처럼 해나가보자
 ```
+##
+- 파이썬 2차교육 1강 교육한영상(파이썬 개념 & 기초문법) : https://youtu.be/f6JhGbB-mVo 
+- 파이썬 2차교육 2강 교육한영상(파이썬 문법 개념과 cheatsheet) : https://youtu.be/X4ZQlRtb3hk
+- 파이썬 2차교육 3강 교육한영상(데이터분석 중요 라이브러리 numpy, pandas) : https://youtu.be/FFsccg8CrnA
+- 파이썬 2차교육 4강 교육한영상(dataprep이 무엇인지, 이를 통한 report생성) : https://youtu.be/w26sX85Vs9A
+- 파이썬 2차교육 5강 교육한영상(상권업소 데이터셋 분석) : https://youtu.be/AmcF6mzldpE
+- 파이썬 2차교육 6강 교육한영상(건강검진정보 데이터셋 분석) : https://youtu.be/bhGFwey3Qbw
+- 파이썬 2차교육 7강 교육한영상(온라인쇼핑판매액 데이터셋 분석) : https://youtu.be/Sl2Xps-Ra6I
+![2차1](https://user-images.githubusercontent.com/66655878/180698673-e50d6693-1ea3-4b58-9e7f-7780719ee77d.png)
+![2차2](https://user-images.githubusercontent.com/66655878/180698678-02d89ca7-6b55-4638-909e-3ccf753a6d9b.png)
+![2차3](https://user-images.githubusercontent.com/66655878/180698679-eb8bf6cf-df33-46f0-acd0-44c1ed053c66.png)
+![2차4](https://user-images.githubusercontent.com/66655878/180698680-44c856fa-c18b-418c-82e2-1fa7eb2af5b0.png)
+![2차5](https://user-images.githubusercontent.com/66655878/180698681-9f5751ae-9bc8-4ac0-9ae0-40f719caa43b.png)
+
+
+
+
+##
+- 파이썬 3차교육 1강 교육한영상(FinanceDataReader라이브러리와 KRX 전체종목분석) : https://youtu.be/W37ZmSe6Ww4
+- 파이썬 3차교육 2강 교육한영상(FinanceDataReader를 통한 개별종목분석 및 간단 웹크롤링) : https://youtu.be/AvMfzIXjYO4
+- 파이썬 3차교육 3강 교육한영상(ETF 분석과 시각화) : https://youtu.be/CKYL4NsxmoA
+- 파이썬 3차교육 4강 교육한영상(업종 테마 분석 - EPS, PER, BPS, PBR의 개념) & 사경인님 주식투자 주가예측 설명 : https://youtu.be/p_jjcLpXPrE
+- 파이썬 3차교육 5강 교육한영상(주식투자의 기술적 분석과 보조지표 - 이동평균, RSI, 추세지표의 개념/ fbprophet) : https://youtu.be/Y_pBcc0nzfI
+![3차3](https://user-images.githubusercontent.com/66655878/180698913-cb5e1ec0-0db2-4d76-8268-ee39302c57f4.png)
+![3차4](https://user-images.githubusercontent.com/66655878/180698918-99217c96-b13a-4d40-8ed0-5ea59d3043c2.png)
+![3차1](https://user-images.githubusercontent.com/66655878/180698920-54f4f662-4f3c-442f-bfdd-2d0db1220f1a.png)
+![3차2](https://user-images.githubusercontent.com/66655878/180698922-4591ae07-3ca1-45f1-947d-d5e8fc9df73c.png)
+
+- 계정 현황 정리 부분은 업무자동화 부분 실습입니다(상무님께서 업무 자동화 부분이라고 알려주셨습니다 새로 배운 부분 기록)
+
+
+
+
 
 
 ### 참고자료
